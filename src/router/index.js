@@ -12,7 +12,7 @@ const routes = [
     component: Intro,
   },
   {
-    path: '/day:date',
+    path: '/day/:date',
     name: 'day',
     component: Day,
   },
