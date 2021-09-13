@@ -1,5 +1,6 @@
 <template>
   <div class="intro">Intro</div>
+  <em class="xi-home" />
 </template>
 
 <script>
